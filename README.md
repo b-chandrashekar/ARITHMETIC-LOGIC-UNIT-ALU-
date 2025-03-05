@@ -128,3 +128,6 @@ Conclusion
 This project provides a hands-on introduction to digital logic design and Verilog programming. By designing and implementing a basic ALU, you gain a deeper understanding of how arithmetic and logical operations are performed at the hardware level. The project also emphasizes the importance of testing and verification in digital design.
 
 This ALU can serve as a foundation for more advanced projects, such as designing a complete CPU or integrating the ALU into a larger system.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/46f3859e-fdd2-44ed-b40d-0cdce90ef427)
